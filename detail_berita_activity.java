@@ -1,0 +1,70 @@
+
+	 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		detail_berita
+	 *	@date 		Sunday 23rd of October 2022 03:33:20 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	
+
+package exportkit.figma;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+
+import android.view.View;
+import android.widget.TextView;
+import android.widget.ImageView;
+
+public class detail_berita_activity extends Activity {
+
+	
+	private View _bg__detail_berita_ek2;
+	private View ellipse_1;
+	private View rectangle_2;
+	private View rectangle_3;
+	private TextView detail_berita_ek4;
+	private TextView deskripsi;
+	private TextView rekomendasi_berita;
+	private TextView jaminan_pemeliharaan_kesehatan_di_indonesia_sebenarnya_sudah_ada_sejak_zaman_kolonial_belanda__dan_setelah_kemerdekaan__pada_tahun_1949__setelah_pengakuan_kedaulatan_oleh_pemerintah_belanda__upaya_untuk_menjamin_kebutuhan_pelayanan_kesehatan_bagi_masyarakat__khususnya_pegawai_negeri_sipil_beserta_keluarga__tetap_dilanjutkan__prof__g_a__siwabessy__selaku_menteri_kesehatan_yang_menjabat_pada_saat_itu__mengajukan_sebuah_gagasan_untuk_perlu_segera_menyelenggarakan_program_asuransi_kesehatan_semesta__universal_health_insurance__yang_saat_itu_mulai_diterapkan_di_banyak_negara_maju_dan_tengah_berkembang_pesat__pada_saat_itu_kepesertaannya_baru_mencakup_pegawai_negeri_sipil_beserta_anggota_keluarganya_saja__namun_siwabessy_yakin_suatu_hari_nanti__klimaks_dari_pembangunan_derajat_kesehatan_masyarakat_indonesia_akan_tercapai_melalui_suatu_sistem_yang_dapat_menjamin_kesehatan_seluruh_warga_bangsa_ini_;
+	private ImageView gambar_detail;
+	private TextView layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan;
+	private TextView layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan_ek1;
+	private TextView layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan_ek2;
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.detail_berita);
+
+		
+		_bg__detail_berita_ek2 = (View) findViewById(R.id._bg__detail_berita_ek2);
+		ellipse_1 = (View) findViewById(R.id.ellipse_1);
+		rectangle_2 = (View) findViewById(R.id.rectangle_2);
+		rectangle_3 = (View) findViewById(R.id.rectangle_3);
+		detail_berita_ek4 = (TextView) findViewById(R.id.detail_berita_ek4);
+		deskripsi = (TextView) findViewById(R.id.deskripsi);
+		rekomendasi_berita = (TextView) findViewById(R.id.rekomendasi_berita);
+		jaminan_pemeliharaan_kesehatan_di_indonesia_sebenarnya_sudah_ada_sejak_zaman_kolonial_belanda__dan_setelah_kemerdekaan__pada_tahun_1949__setelah_pengakuan_kedaulatan_oleh_pemerintah_belanda__upaya_untuk_menjamin_kebutuhan_pelayanan_kesehatan_bagi_masyarakat__khususnya_pegawai_negeri_sipil_beserta_keluarga__tetap_dilanjutkan__prof__g_a__siwabessy__selaku_menteri_kesehatan_yang_menjabat_pada_saat_itu__mengajukan_sebuah_gagasan_untuk_perlu_segera_menyelenggarakan_program_asuransi_kesehatan_semesta__universal_health_insurance__yang_saat_itu_mulai_diterapkan_di_banyak_negara_maju_dan_tengah_berkembang_pesat__pada_saat_itu_kepesertaannya_baru_mencakup_pegawai_negeri_sipil_beserta_anggota_keluarganya_saja__namun_siwabessy_yakin_suatu_hari_nanti__klimaks_dari_pembangunan_derajat_kesehatan_masyarakat_indonesia_akan_tercapai_melalui_suatu_sistem_yang_dapat_menjamin_kesehatan_seluruh_warga_bangsa_ini_ = (TextView) findViewById(R.id.jaminan_pemeliharaan_kesehatan_di_indonesia_sebenarnya_sudah_ada_sejak_zaman_kolonial_belanda__dan_setelah_kemerdekaan__pada_tahun_1949__setelah_pengakuan_kedaulatan_oleh_pemerintah_belanda__upaya_untuk_menjamin_kebutuhan_pelayanan_kesehatan_bagi_masyarakat__khususnya_pegawai_negeri_sipil_beserta_keluarga__tetap_dilanjutkan__prof__g_a__siwabessy__selaku_menteri_kesehatan_yang_menjabat_pada_saat_itu__mengajukan_sebuah_gagasan_untuk_perlu_segera_menyelenggarakan_program_asuransi_kesehatan_semesta__universal_health_insurance__yang_saat_itu_mulai_diterapkan_di_banyak_negara_maju_dan_tengah_berkembang_pesat__pada_saat_itu_kepesertaannya_baru_mencakup_pegawai_negeri_sipil_beserta_anggota_keluarganya_saja__namun_siwabessy_yakin_suatu_hari_nanti__klimaks_dari_pembangunan_derajat_kesehatan_masyarakat_indonesia_akan_tercapai_melalui_suatu_sistem_yang_dapat_menjamin_kesehatan_seluruh_warga_bangsa_ini_);
+		gambar_detail = (ImageView) findViewById(R.id.gambar_detail);
+		layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan = (TextView) findViewById(R.id.layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan);
+		layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan_ek1 = (TextView) findViewById(R.id.layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan_ek1);
+		layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan_ek2 = (TextView) findViewById(R.id.layanan_kesehatan_jkn__mutu_dan_pemerataan_akses_fasilitas_kesehatan_jadi_tantangan_ek2);
+	
+		
+		//custom code goes here
+	
+	}
+}
+	
+	
